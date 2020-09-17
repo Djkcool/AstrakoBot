@@ -22,7 +22,7 @@ from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an group management bot.
+I am a group management bot.
 You can find my list of available commands with /help.
 
 [AstrakoBot's Repo](github.com/Astrako/AstrakoBot) 
