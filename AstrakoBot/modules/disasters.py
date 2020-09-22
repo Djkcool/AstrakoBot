@@ -570,7 +570,7 @@ Group admins/group owners do not need these commands.
  ╠ `/load modulename`*:* Loads the said module to 
  ╠   memory without restarting.
  ╠ `/unload modulename`*:* Loads the said module from
- ╚   memory without restarting.memory without restarting the bot 
+ ╚   memory without restarting the bot 
 
  ╔ *Remote commands:*
  ╠ `/runban user group`*:*
